@@ -1,0 +1,8 @@
+{
+  "name": "FoodPanda Rider",
+  "description": "FoodPanda Rider delivery companion app for managing orders, live route navigation, pickup and delivery workflows, and rider earnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
